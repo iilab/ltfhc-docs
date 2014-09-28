@@ -1,0 +1,1 @@
+Buy colored tape for indicating connections (antenna, battery, solar panels, load...).
