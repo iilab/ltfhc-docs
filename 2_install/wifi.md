@@ -4,7 +4,7 @@ The other node is configured as a client station, paired with the access point. 
 
 Bot stations can be maintained via their web interfaces. The default login credentials have not been changed yet. The web interfaces are secured via SSL and use a certificate that may not be trusted by a normal web browser and thus give you a prompt for an exception at the first connect.
 
-Webinterface:	https://192.168.42.250
-Username: 	  ubnt
-Password: 	  ubnt
-WPA2-PSK:     BreakingBadHeisenberg
+ - Webinterface:	https://192.168.42.250
+ - Username: 	  ubnt
+ - Password: 	  ubnt
+ - WPA2-PSK:     BreakingBadHeisenberg
