@@ -11,5 +11,6 @@ Update from v0.5.0 to v0.5.1
 
 ## From v0.4.0
 
-
-
+ - See LOG for Katondo
+ - Check BIOS settings (restart when plugged in)
+ - 

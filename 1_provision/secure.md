@@ -22,6 +22,7 @@ The security goals are:
 
 Security non-goals
  - Does not try to protect against someone with root access to the server
+ - Does not try to protect against coercion against health care worker.
  - 
 
 Description
